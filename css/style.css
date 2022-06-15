@@ -79,10 +79,13 @@
     
 }
 
-.title_personal{
+.title_personal , .sub_titlePersonal {
     text-align:center;
     font-size:40px;
     margin:30px;
+}
+.sub_titlePersonal{
+    font-size:25px;   
 }
 .personal{
     
@@ -116,9 +119,7 @@
     text-align:center;
     font-size: 18px;
 }
-.personal .card .btn{
-    
-}
+
 
 .clip{
     display:flex;
@@ -143,6 +144,7 @@ width:auto;
     margin:0px auto;
     padding:5px;
 }
+
 .clip .clip_content .services{
     color:#fff;
     letter-spacing:2px;
