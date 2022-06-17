@@ -1,3 +1,4 @@
+
 .main-container {
     width: 95%;
     margin: auto;
@@ -51,7 +52,7 @@
    
 }
 
-.content .articles .title {
+.content .articles h2 {
     text-align: center;
     margin: 10px;
     color: #444;
@@ -59,11 +60,11 @@
     
 }
 
-.content .articles .paragraph {
+.content .articles p {
     text-align: justify;
     margin: 3px;
     color: #444;
-    
+       
 }
 
 .content .image{
